@@ -1,5 +1,63 @@
+body {
+    background-color: rgb(253, 232, 174);
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+h1 {
+    background-color: rgb(54, 54, 54);
+    color: rgb(235, 235, 235);
+    padding: 30px;
+}
+.flex {
+    border: 1px solid #765959; 
+    background-color: #d5c3c3;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;   
+}
+#picture {
+   
+}
+#boitable {
+    font-size: 40px;
+}
+#wholetable{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+table, th, td {
+    border: 4px solid rgb(255, 137, 41);
+    font-size: 35px
+}
+th, td {
+    border: 2px dashed rgb(167, 9, 9)
+}
 
-#first {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #first {
     background-color: rgb(247, 49, 49);
     border: 2 px red;
     padding: 40px;
@@ -26,4 +84,4 @@ h3 {
 }
 li {
     color: green;
-}
+} */
