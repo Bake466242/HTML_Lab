@@ -1,0 +1,29 @@
+
+#first {
+    background-color: rgb(247, 49, 49);
+    border: 2 px red;
+    padding: 40px;
+}
+.firstpara {
+    color: rgb(14, 94, 94);
+}
+p {
+    color: black;
+    padding: 8px;
+    background-color: white;
+    border: 1px dashed black;
+}
+table, th, td {
+    border: 1px solid rgb(98, 0, 255);
+    font-size: 35px
+}
+th, td {
+    border: 1px dashed rgb(167, 9, 9)
+}
+
+h3 {
+    color: grey;
+}
+li {
+    color: green;
+}
